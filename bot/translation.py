@@ -63,9 +63,9 @@ Maintained By: @Hyetelegram
     
 <b>➥ Creator</b> : <b><i><a href=https://t.me/Hyetelegram</a></i></b>
 
-<b>➥ Language</b> : <code>Python3</code>
+<b>➥ My Group </b> : <code>https://t.me/joinchat/3LnMXkDpe1MzMDU1</code>
 
-<b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
+<b>➥ Library</b> : <i><a>< https://t.me/Oomban_OllaTh </a></i>
 
 <b>➥ Source Code</b> : <i><a href=https://t.me/Oomban_OllaTh">Click Me</a></i>
 """
