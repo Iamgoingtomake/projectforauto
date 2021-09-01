@@ -5,14 +5,22 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>𝐘𝐨..𝐘𝐨..Good evening ODIN 🙋, 𝐈'𝐦 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐌𝐞𝐝𝐢𝐚 𝐒𝐞𝐚𝐫𝐜𝐡 𝐁𝐨𝐭 𝐨𝐫 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐜𝐚𝐥𝐥 𝐦𝐞 𝐚𝐬 𝐀𝐮𝐭𝐨-𝐅𝐢𝐥𝐭𝐞𝐫 𝐁𝐨𝐭
+<i>
 
-𝐈𝐭𝐬 𝐞𝐚𝐬𝐲 𝐭𝐨 𝐮𝐬𝐞 𝐦𝐞; 𝐣𝐮𝐬𝐭 𝐚𝐝𝐝 𝐦𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐚𝐬 𝐚𝐝𝐦𝐢𝐧, 𝐭𝐡𝐚𝐭𝐬 𝐚𝐥𝐥, 𝐢 𝐰𝐢𝐥𝐥 𝐩𝐫𝐨𝐯𝐢𝐝𝐞 𝐦𝐨𝐯𝐢𝐞𝐬 𝐭𝐡𝐞𝐫𝐞...🤓
+എന്റെ പേര് CARNAGE!. ഞാൻ ഒരു Auto Advanced Filter Bot ആണ്
 
-©️MᴀɪɴᴛᴀɪɴᴇD Bʏ  ODIN
-God of Heavens
+🤭 എന്നെ നിർമിച്ചിരിക്കുന്നത് 🅰🆂🅶🅰🆁🅳🅸🅰🅽🆂 ഗ്രൂപ്പിലേക്ക് ആണ്.
 
-🔥🔥😝
+എന്തായാലും സ്റ്റാർട്ട് അടിച്ചതല്ലെ ഇനി ആ താഴെ കാണുന്ന നമ്മുടെ ഒഫീഷ്യൽ ചന്നെൽ കൂടി Subscribe ചെയ്തിട്ട് പൊക്കോ...🤣🤣
+
+Maintained By: @Hyetelegram
+
+
+
+
+
+
+
 
 
 
@@ -48,7 +56,7 @@ God of Heavens
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@Hyetellegram
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
@@ -59,5 +67,5 @@ God of Heavens
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href=https://t.me/Oomban_OllaTh">Click Me</a></i>
 """
